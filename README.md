@@ -1,17 +1,3 @@
-Chat history
-
-Open sidebar
-
-ChatGPT
-
-You said:
- Create a read me file on a survey form I'm hosting on github from freecodecamp
-ChatGPT said:
-You’re giving feedback on a new version of ChatGPT.
-Which response do you prefer? Responses may take a moment to load.
-ChatGPT
-Response 1
-Here's a template for your README file for a survey form project hosted on GitHub:
 
 Survey Form Project
 This is a simple survey form project built as part of the freeCodeCamp Responsive Web Design curriculum. The form collects user feedback and demonstrates basic HTML and CSS skills.
